@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/layout/activity_countactlist.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/layout/activity_email.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/layout/activity_phone.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/layout/activity_sms.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/layout/add_contacts.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/menu/menu.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/menu/optionmenu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/menu/pop_up.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/menu/video.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/lubna/AndroidStudioProjects/app_contact/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2861111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (7)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
